@@ -1,6 +1,4 @@
-Below is a sample README file for your Slack bot project. This README provides an overview of the project, setup instructions, usage details, and contact information.
 
-```markdown
 # Slack Bot with Llama Model Integration
 
 This project is a Slack bot that integrates with a Llama model to generate responses based on incoming messages. The bot listens for specific keywords in designated Slack channels and uses either a local or API-based Llama model to generate contextually relevant responses.
@@ -60,11 +58,3 @@ Once the bot is running, it will listen for messages in the specified Slack chan
 ## Error Handling
 
 The bot includes a global error handler that logs exceptions and request bodies for troubleshooting purposes. Ensure logging is configured to capture these details effectively.
-
-
-```
-
-### Additional Notes:
-- Replace placeholders like `<repository-url>`, `<repository-directory>`, `<your_slack_bot_token>`, etc., with actual values relevant to your project.
-- Customize sections such as "Contact" with your personal or team contact information.
-- Add any additional setup steps or dependencies specific to your project if needed.
